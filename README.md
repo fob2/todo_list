@@ -7,3 +7,7 @@ To do list application with user login and search functionality.
 **Username**: `test`
 
 **Password**: `todolist`
+
+## URL
+
+Navigate to [this url](https://fob-todo-list.herokuapp.com/login/).
